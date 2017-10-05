@@ -1,1 +1,5 @@
-environment: []
+environment:
+- refs/heads/first-drie-branch:
+  - !secret 'gAAAAABZ1hkUdvKOZuWvvUJOkG3zIhc87NGh9QVS_Z8GrpuFuQzGSa2PmjNr1g7GCd2GOtBFffovAFi7aB4FqSVcsb6X_GMxwbQfa7_hoDA2f5fPbulb9fyci97CTQSgDDA0V6r6IgnGRwz3vDP37px2xP_9YrUk41RD_bVrMg2RI9O1Z3Lt2LkWeqcFg24oIebwIh299U2AtzrtWw2XxenO6RbEHOLnpQ=='
+installation_id: '57217'
+repo_id: '105002795'
